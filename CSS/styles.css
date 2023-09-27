@@ -1,38 +1,42 @@
 .fontColor {
-    color: #000000;
-  }
-  
-  body {
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 0.5cm;
-    background-color:rgb(134, 132, 243);
-    
-  }
+  color: #000000;
+}
 
-  header {
-font-size: 50px;
-font-family: fantasy, Helvetica, sans-serif;
-width: 99%;
-    border: solid rgb(15, 230, 51);
-    height: 20%;
-margin-top: auto;
-margin-left: auto;
-margin-right: auto;
-margin-bottom: auto;
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 0.5cm;
+  background-color: rgb(134, 132, 243);
 
-  }
+}
 
-  section {
-    font-size: 20px;
-    font-family: fantasy, Helvetica, sans-serif;
-    width: 50%;
-        border: solid rgb(15, 230, 51);
-        height: 20%;
-    margin-top: auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: auto;
-    float: left;
+header {
+  font-size: 50px;
+  font-family: fantasy, Helvetica, sans-serif;
+  width: 99%;
+  border: solid rgb(15, 230, 51);
+  height: 20%;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
 
-  }
+}
 
+section {
+  font-size: 19px;
+  font-family: fantasy, Helvetica, sans-serif;
+  width: 10%;
+  border: solid rgb(15, 230, 51);
+  height: 20%;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  float: left;
+
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+  float: inline-end;
+}
